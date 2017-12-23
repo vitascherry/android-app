@@ -1,3 +1,3 @@
-# android-app
+# android-sqlite-app
 Simple Android Application
-w/ SQL-Lite Database
+with SQL-Lite Database
